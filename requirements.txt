@@ -1,0 +1,8 @@
+# VectorDB Python is built using 100% Python Standard Library!
+# No external pip dependencies are required to run this project.
+#
+# Python >= 3.8 is supported.
+#
+# Optional packages for further development or extensions:
+# numpy>=1.21.0
+# requests>=2.28.0
